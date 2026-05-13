@@ -38,7 +38,7 @@
 
 | Student | Before | After | Jump |
 |---------|--------|-------|------|
-| 💼 Rahul M. (Indore) | Manual QA — ₹4.5 LPA | DevOps Engineer at MNC — ₹14 LPA | **+₹9.5 LPA** |
+| 💼 Ravi Yadu. (Indore) | Support — ₹4.5 LPA | DevOps Engineer at MNC — ₹40 LPA | **+₹9.5 LPA** |
 | 💼 Priya S. (Bangalore) | Support Engineer — ₹6 LPA | Cloud Engineer at Product Company — ₹18 LPA | **+₹12 LPA** |
 | 💼 Amit K. (Hyderabad) | Linux Admin — ₹7 LPA | Senior DevOps Engineer — ₹22 LPA | **+₹15 LPA** |
 | 💼 Sneha R. (Pune) | Fresher BCA Graduate — ₹0 | Junior Cloud Engineer — ₹8.5 LPA | **First Job!** |
