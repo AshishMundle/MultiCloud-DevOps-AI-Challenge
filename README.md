@@ -12,7 +12,7 @@
 <br/><br/>
 
 ### 🎓 Mentored by **Vikas Ratnawat**
-**Microsoft MVP | Ex-PwC | Ex-Amazon | Ex-Microsoft | Ex-Google | Founder CloudDevOpsHub**
+** PwC | Ex Microsoft MVP| Founder CloudDevOpsHub**
 
 <br/>
 
