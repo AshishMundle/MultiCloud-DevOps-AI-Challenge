@@ -18,9 +18,6 @@
 > ⏰ **Live:** 8:00 AM – 9:15 AM IST | **Daily Q&A:** 9:15 AM – 10:00 AM IST | **Mock Interview:** Every Wednesday 8:00 PM IST
 
 ---
-
-## ▶️ Watch These BEFORE Your First Session
-
 ## ▶️ Watch These BEFORE Your First Session
 
 <div align="center">
@@ -116,13 +113,6 @@ Read before joining — be inspired.</sub><br/><br/>
 </table>
 
 </div>
-
-| Priority | Video | Link | Duration |
-|----------|-------|------|----------|
-| 🔴 **MUST WATCH** | Day 0 Program Overview | [▶️ Watch Now](https://www.youtube.com/watch?v=oe7Iq2ByXWM&list=PLG7MCdO2f2e-2rZNJBTnUL7oLP-dwCXaS&index=3) | 30 min |
-| 🔴 **MUST WATCH** | 15-Min FAQ — All Questions Answered | [▶️ Watch FAQ](https://youtu.be/dexNHr0T55s) | 15 min |
-| 🟡 **RECOMMENDED** | Last Batch Full Playlist (Preview) | [▶️ Full Playlist](https://www.youtube.com/playlist?list=PLG7MCdO2f2e-ZiA8tTSiV-H4B8lBiy88P) | 55 sessions |
-| 🟢 **INSPIRING** | 1000+ Student Success Stories | [🏆 Read Stories](https://www.clouddevopshub.com/s/pages/successstories) | 10 min |
 
 ---
 
