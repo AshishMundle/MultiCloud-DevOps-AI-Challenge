@@ -287,7 +287,7 @@ AI notes tool: class ke baad auto Q&A.</sub>
 ### 🏆 Professional Journey
 
 ```
-🏢 Current     →  Founder & CEO, CloudDevOpsHub
+🏢 IT Working Professional + Current     →  Founder & CEO, CloudDevOpsHub
                    India's Cloud & DevOps Community (58,000+ Members in FB + 40,000 in WhatsApp)
 
 🏢 PwC         →  Cloud & DevOps Architect
