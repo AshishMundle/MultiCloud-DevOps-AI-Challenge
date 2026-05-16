@@ -24,6 +24,9 @@
 
 ---
 
+## 🎓 [→ START HERE: Open Session-0 to Accept the Challenge](./Session-00-Program-Kickoff/README.md)
+
+
 ## 🏆 1000+ Success Stories — Real Engineers, Real Packages
 
 <div align="center">
